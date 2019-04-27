@@ -1,0 +1,1 @@
+export const gitApi = "https://api.github.com/";
